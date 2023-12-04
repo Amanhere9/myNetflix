@@ -183,7 +183,7 @@ nav {
     background-color: red;
   } */
 
-  .first-section{
+  .first-section{  
     justify-content: center;
     align-items: center;
     max-width: 100%;
@@ -322,7 +322,8 @@ footer .question{
 
 @media screen and (max-width:635px) /*435px*/{
   body{
-    position: absolute;
+/*     position: absolute; */
+    display:inline-flex;
   }
 /* 
   .sec-img{
