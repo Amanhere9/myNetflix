@@ -323,7 +323,8 @@ footer .question{
 @media screen and (max-width:635px) /*435px*/{
   body{
 /*     position: absolute; */
-    display:inline-flex;
+/*     display:inline-flex; */
+    width:207vw;
   }
 /* 
   .sec-img{
